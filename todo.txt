@@ -19,12 +19,14 @@ GIT
 - 要會解 conflict
     修改完成後，git commit, git push
 - rebase 要會用
+    
 - 過去10個commit可以把中間一兩個丟掉
 - 把中間兩三個commit合併 (同一個branch)
 - 過去10個commit可以把其中2, 3個換位子
 - 改過去的commit message
 - git flow, github flow 是啥，有哪些差異
 - git reflog 的用法(救回drop掉的commit)
+    可以得到所有變動的hash, 然後就可以用git reset前往那個狀態
 - git tag 的用法
 
 
