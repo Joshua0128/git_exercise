@@ -20,6 +20,8 @@ GIT
 - rebase 要會用
     切到要往後接的branch，然後使用git rebase <target branch>
 - 過去10個commit可以把中間一兩個丟掉
+    git rebase -i <tag>
+    drop the commit
 - 把中間兩三個commit合併 (同一個branch)
 - 過去10個commit可以把其中2, 3個換位子
 - 改過去的commit message
