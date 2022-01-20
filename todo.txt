@@ -13,7 +13,8 @@ GIT
     git revert --no-edit
 - 有5個檔案變更過，將某個檔案恢復到原本的狀態
     git clean -> 對untrack file作用 (DEL)
-- git hook 的作用 [知道是這是啥]
+- git hook 的作用 
+    在上傳之前對於上傳內容做檢查
 - git merge 要會用
 - 要會解 conflict
     修改完成後，git commit, git push
@@ -30,6 +31,10 @@ GIT
 - 改過去的commit message
     rebase + reword
 - git flow, github flow 是啥，有哪些差異
+    - git flow : master, dev, hotfix, feature, release
+    - github flow
+        多了 folk, pull request, issue tracking 
+        folk 到自己的repo，開發完後對main發PR
 - git reflog 的用法(救回drop掉的commit)
     可以得到所有變動的hash, 然後就可以用git reset前往那個狀態
 - git tag 的用法
