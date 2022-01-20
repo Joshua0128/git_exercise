@@ -18,6 +18,7 @@ GIT
 - 要會解 conflict
     修改完成後，git commit, git push
 - rebase 要會用
+    切到要往後接的branch，然後使用git rebase <target branch>
 - 過去10個commit可以把中間一兩個丟掉
 - 把中間兩三個commit合併 (同一個branch)
 - 過去10個commit可以把其中2, 3個換位子
