@@ -1,24 +1,11 @@
-Thu Jan 20 23:23:48 2022       
-+-----------------------------------------------------------------------------+
-| NVIDIA-SMI 460.106.00   Driver Version: 460.106.00   CUDA Version: 11.2     |
-|-------------------------------+----------------------+----------------------+
-| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
-| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
-|                               |                      |               MIG M. |
-|===============================+======================+======================|
-|   0  GeForce RTX 208...  On   | 00000000:0A:00.0  On |                  N/A |
-| 25%   33C    P8    25W / 260W |    725MiB / 11011MiB |      2%      Default |
-|                               |                      |                  N/A |
-+-------------------------------+----------------------+----------------------+
-                                                                               
-+-----------------------------------------------------------------------------+
-| Processes:                                                                  |
-|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
-|        ID   ID                                                   Usage      |
-|=============================================================================|
-|    0   N/A  N/A      3623      G   /usr/lib/xorg/Xorg                392MiB |
-|    0   N/A  N/A      4659      G   /usr/bin/gnome-shell               97MiB |
-|    0   N/A  N/A      6349      G   ...AAAAAAAAA= --shared-files       27MiB |
-|    0   N/A  N/A      7845      G   ...AAAAAAAAA= --shared-files      111MiB |
-|    0   N/A  N/A     30646      G   ...AAAAAAAAA= --shared-files       92MiB |
-+-----------------------------------------------------------------------------+
+total 48
+drwxrwxr-x 3 labpc1 labpc1  4096  1月 20 23:31 .
+drwxrwxr-x 9 labpc1 labpc1  4096  1月 19 19:26 ..
+-rw-rw-r-- 1 labpc1 labpc1     0  1月 20 23:32 a.txt
+-rw-rw-r-- 1 labpc1 labpc1   500  1月 20 23:29 b.txt
+-rw-rw-r-- 1 labpc1 labpc1  2157  1月 20 23:29 c.txt
+-rw-rw-r-- 1 labpc1 labpc1  8022  1月 20 23:31 e.txt
+drwxrwxr-x 8 labpc1 labpc1  4096  1月 20 23:31 .git
+-rw-rw-r-- 1 labpc1 labpc1    15  1月 20 21:00 test_merge.py
+-rw-rw-r-- 1 labpc1 labpc1 11867  1月 20 00:31 test.ts
+-rw-rw-r-- 1 labpc1 labpc1   930  1月 20 23:30 todo.txt

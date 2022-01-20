@@ -1,10 +1,51 @@
-total 36
-drwxrwxr-x 3 labpc1 labpc1  4096  1月 20 23:17 .
-drwxrwxr-x 9 labpc1 labpc1  4096  1月 19 19:26 ..
--rw-rw-r-- 1 labpc1 labpc1    49  1月 20 23:17 a.txt
--rw-rw-r-- 1 labpc1 labpc1     0  1月 20 23:17 b.txt
--rw-rw-r-- 1 labpc1 labpc1     0  1月 20 23:17 c.txt
-drwxrwxr-x 8 labpc1 labpc1  4096  1月 20 23:13 .git
--rw-rw-r-- 1 labpc1 labpc1    15  1月 20 21:00 test_merge.py
--rw-rw-r-- 1 labpc1 labpc1 11867  1月 20 00:31 test.ts
--rw-rw-r-- 1 labpc1 labpc1   778  1月 20 23:12 todo.txt
+8.0K	./.git/objects/da
+4.0K	./.git/objects/pack
+8.0K	./.git/objects/80
+8.0K	./.git/objects/66
+8.0K	./.git/objects/9b
+8.0K	./.git/objects/b6
+8.0K	./.git/objects/90
+8.0K	./.git/objects/f4
+8.0K	./.git/objects/4f
+8.0K	./.git/objects/ec
+8.0K	./.git/objects/07
+8.0K	./.git/objects/22
+8.0K	./.git/objects/a9
+8.0K	./.git/objects/a3
+8.0K	./.git/objects/32
+8.0K	./.git/objects/7e
+8.0K	./.git/objects/b8
+12K	./.git/objects/e1
+8.0K	./.git/objects/ce
+8.0K	./.git/objects/d5
+8.0K	./.git/objects/5f
+8.0K	./.git/objects/79
+8.0K	./.git/objects/98
+16K	./.git/objects/6f
+8.0K	./.git/objects/06
+8.0K	./.git/objects/fa
+8.0K	./.git/objects/68
+4.0K	./.git/objects/info
+8.0K	./.git/objects/ca
+8.0K	./.git/objects/f7
+8.0K	./.git/objects/1d
+12K	./.git/objects/d1
+8.0K	./.git/objects/11
+8.0K	./.git/objects/0a
+8.0K	./.git/objects/97
+292K	./.git/objects
+16K	./.git/logs/refs/remotes/origin
+20K	./.git/logs/refs/remotes
+20K	./.git/logs/refs/heads
+44K	./.git/logs/refs
+56K	./.git/logs
+16K	./.git/refs/remotes/origin
+20K	./.git/refs/remotes
+4.0K	./.git/refs/tags
+20K	./.git/refs/heads
+48K	./.git/refs
+4.0K	./.git/branches
+52K	./.git/hooks
+8.0K	./.git/info
+492K	./.git
+536K	.
