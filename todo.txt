@@ -1,0 +1,23 @@
+GIT
+- switch branch
+    git checkout 
+    git checkout -b
+- new a branch
+    git branch [new branch]
+- stage some file [git add ]
+- git rm [取消準備要變更的add中的文件]
+- git reset [回覆commit的狀態, 將所有檔案恢復到原本的狀態]
+- 有5個檔案變更過，將某個檔案恢復到原本的狀態
+- git hook 的作用 [知道是這是啥]
+- git merge 要會用
+- 要會解 conflict
+- rebase 要會用
+- 過去10個commit可以把中間一兩個丟掉
+- 把中間兩三個commit合併 (同一個branch)
+- 過去10個commit可以把其中2, 3個換位子
+- 改過去的commit message
+- git flow, github flow 是啥，有哪些差異
+- git reflog 的用法(救回drop掉的commit)
+- git tag 的用法
+
+
