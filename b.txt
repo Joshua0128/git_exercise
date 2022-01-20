@@ -1,0 +1,10 @@
+total 36
+drwxrwxr-x 3 labpc1 labpc1  4096  1月 20 23:17 .
+drwxrwxr-x 9 labpc1 labpc1  4096  1月 19 19:26 ..
+-rw-rw-r-- 1 labpc1 labpc1    49  1月 20 23:17 a.txt
+-rw-rw-r-- 1 labpc1 labpc1     0  1月 20 23:17 b.txt
+-rw-rw-r-- 1 labpc1 labpc1     0  1月 20 23:17 c.txt
+drwxrwxr-x 8 labpc1 labpc1  4096  1月 20 23:13 .git
+-rw-rw-r-- 1 labpc1 labpc1    15  1月 20 21:00 test_merge.py
+-rw-rw-r-- 1 labpc1 labpc1 11867  1月 20 00:31 test.ts
+-rw-rw-r-- 1 labpc1 labpc1   778  1月 20 23:12 todo.txt
