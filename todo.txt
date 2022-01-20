@@ -20,6 +20,7 @@ GIT
     修改完成後，git commit, git push
 - rebase 要會用
     
+
 - 過去10個commit可以把中間一兩個丟掉
 - 把中間兩三個commit合併 (同一個branch)
 - 過去10個commit可以把其中2, 3個換位子
