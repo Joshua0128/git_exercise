@@ -23,11 +23,16 @@ GIT
     git rebase -i <tag>
     drop the commit
 - 把中間兩三個commit合併 (同一個branch)
+    git rebase -i <tag>
+    squash 
 - 過去10個commit可以把其中2, 3個換位子
+    git rebase -i <tag>
 - 改過去的commit message
+    rebase + reword
 - git flow, github flow 是啥，有哪些差異
 - git reflog 的用法(救回drop掉的commit)
     可以得到所有變動的hash, 然後就可以用git reset前往那個狀態
 - git tag 的用法
+    got tag <tag name> <commit hash>
 
 
