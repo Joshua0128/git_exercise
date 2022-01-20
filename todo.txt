@@ -10,8 +10,10 @@ GIT
     git checkout -- [file name] 將檔案回覆到上個commit
 - git reset [回覆commit的狀態, 將所有檔案恢復到原本的狀態]
     git reset HEAD
+    git revert HEAD --no-edit
 - 有5個檔案變更過，將某個檔案恢復到原本的狀態
     git clean -> 對untrack file作用 (DEL)
+    git reset 
 
 - git hook 的作用 [知道是這是啥]
 - git merge 要會用
